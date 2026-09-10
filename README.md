@@ -41,7 +41,7 @@
 ### 🌌 `whoami`
 
 ```yaml
-name: "Nguyễn Bá Quang Minh"
+name: "Nguyễn Văn Minh"
 alias: "Babeo"
 role: "Fullstack Developer · Software Engineering Student"
 education: "FPT University"
