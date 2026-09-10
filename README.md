@@ -16,20 +16,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="420" alt="Night Coding Vibe" />
 </p>
 
-<!-- ===================== SOCIAL ICONS (ICON-ONLY, NO BACKGROUND) ===================== -->
-<p align="center">
-  <a href="mailto:nguyenbaquangminh62@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-b%C3%A1-quang-minh-673731233" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/minh.nguyenba.31542841/" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/5865F2" height="38" alt="Facebook" />
-  </a>
-</p>
 
 
 
@@ -42,7 +28,7 @@
 
 ```yaml
 name: "Nguyễn Văn Minh"
-alias: "Babeo"
+alias: "Tít"
 role: "Fullstack Developer · Software Engineering Student"
 education: "FPT University"
 focus: ["Software Testing", "Software Requirements", "Fullstack Architecture"]
