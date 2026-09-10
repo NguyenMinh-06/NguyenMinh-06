@@ -1,6 +1,6 @@
 <!-- ===================== HEADER WAVE BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0a0d3a,1e2353,5865F2&height=220&section=header&text=NGUYỄN%20BÁ%20QUANG%20MINH&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Fullstack%20Vibe%20Coder%20%F0%9F%8C%99&descAlignY=55&descSize=18&animation=fadeIn" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0a0d3a,1e2353,5865F2&height=220&section=header&text=NGUYỄN%20VĂN%20MINH&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Fullstack%20Vibe%20Coder%20%F0%9F%8C%99&descAlignY=55&descSize=18&animation=fadeIn" alt="Header Banner" />
 </p>
 
 <!-- ===================== TYPING SVG ===================== -->
